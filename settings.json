@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "DaCOOLServer.play.hosting",
-    "port": 9656,
+    "port": 59421,
     "version": "1.21.11",
     "try-creative": false
   },
