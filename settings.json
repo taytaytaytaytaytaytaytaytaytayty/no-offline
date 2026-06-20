@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": DaCOOLServer.play.hosting,
+    "ip": "DaCOOLServer.play.hosting",
     "port": 9656,
     "version": "1.21.11",
     "try-creative": false
